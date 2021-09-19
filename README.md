@@ -57,3 +57,8 @@
 <br/><br/><br/>
 **Basic Model of our Idea**<br/>
 - This section contains images and small modules
+<br/><br/>
+![blocks img](https://github.com/Techno-Simpola/Edu-Satva/blob/main/01.png)<br>
+![blocks img](https://github.com/Techno-Simpola/Edu-Satva/blob/main/04.png)<br>
+![blocks img](https://github.com/Techno-Simpola/Edu-Satva/blob/main/05%20(1).png)<br>
+![blocks img](https://github.com/Techno-Simpola/Edu-Satva/blob/main/06.png)<br>
